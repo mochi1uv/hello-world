@@ -1,0 +1,10 @@
+# Windows dropout transitioned to Linux
+## An initial post on GitHub. 
+
+### Installed Linux Mint. 
+To check version, run this command on `Terminal`. 
+```
+~$ uname -r
+```
+
+Current version: 4.15.0-54-generic
