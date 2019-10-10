@@ -1,7 +1,6 @@
-# Windows dropout transitioned to Linux
-## An initial post on GitHub. 
+# An initial post on GitHub. 
 
-### Installed Linux Mint. 
+# Installed Linux Mint. 
 To check version, run this command on `Terminal`. 
 ```
 ~$ uname -r
